@@ -35,3 +35,7 @@ The system integrates:
 ## 🧠 Launch Procedure
 ```bash
 ros2 launch my_robot_bringup bringup.launch.py
+
+🎬 **YouTube (Unlisted)**  
+👉 https://youtu.be/lx7NfIekOpU
+
